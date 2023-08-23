@@ -1,0 +1,20 @@
+img {
+    border: 5px solid white;
+}
+
+.image_container {
+    justify-content: center;
+    padding-top: 50px;
+}
+
+h1 {
+    text-transform: capitalize;
+}
+
+body {
+    color: white;
+    background-color: black;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
